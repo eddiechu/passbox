@@ -9,6 +9,8 @@ As you know the good password is
  - do not use personal information
 
 But it might not be easy to archive, the following tool provides you a quick, easy and hassle-free way.
+It is simple program, feasible, no trick.
+You can use it on your mobile, store the screen capture on your mobile, but don't forget to have a backup copy
 
 | https://eddiechu.github.io/passbox.html | |
 |---------------|---------------|
