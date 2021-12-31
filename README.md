@@ -10,6 +10,6 @@ As you know the good password policy is
 
 But it might not be easy to archive, the following tool provides you a quick, easy and hassle-free way.
 
-| https://eddiechu.github.io/passbox.html |---------------|
+| https://eddiechu.github.io/passbox.html | |
 |---------------|---------------|
 |![alt text](https://raw.githubusercontent.com/eddiechu/passbox/main/image/screen1.gif)|![alt text](https://raw.githubusercontent.com/eddiechu/passbox/main/image/image1.png)|
