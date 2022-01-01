@@ -1,18 +1,20 @@
 # Compose your complex password
 
-As you know the good password is
+A good password is important:    
  - at least 12 characters
- - change every 3 months
- - has a combination of upper and lowercase letters, numbers, punctuation, and special symbols
- - not be a dictionary word
- - do not resue passwords
- - do not use personal information
+ - change the passwords in every 3 months.        
+ - with a combination of upper and lowercase letters, numbers, punctuation, and special symbols 
+ - do not use any predictable words particularly from the dictionaries 
+ - do not resue passwords 
+ - do not use personal information 
 
-But it might not be easy to archive, the following tool provides you a quick, easy and hassle-free way.
+You can use this simple program on your mobile with hassle-free.
 
-It is a simple program, feasible, no trick.
+It is feasible, transparent, not a black box, no trick.
 
-You can use it on your mobile, store the screen capture on your mobile, but don't forget to have a backup copy
+And keep it just by taking a screen shoot and storing this screen capture on your mobile. Please, don't forget to have a backup copy too.
+
+This is an absolutely user friendly program with highly recommended. 
 
 
 | https://eddiechu.github.io/passbox.html | |
