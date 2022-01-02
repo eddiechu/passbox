@@ -18,3 +18,5 @@ random password
 password generator
 complex password
 pronounceable password
+password manager
+secure password
