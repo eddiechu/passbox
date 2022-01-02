@@ -7,7 +7,13 @@ https://www.google.com/search?q=password+manager+pros+and+cons
 https://en.wikipedia.org/wiki/Password_manager
 
 
-Let’s back to the basic.  Here is a simple program providing you a quick, easy, and hassle-free way.  It is coded by HTML and Javascript.  It operates transparently without any tricks.  You can download and open it on your mobile, PC or Mac.  This is an absolutely reliable program
+Let’s back to the basic.  Here is a simple program providing you a quick, easy, and hassle-free way.  
+
+It is coded by HTML and Javascript.  It operates transparently without any tricks.  
+
+You can download and open it on your mobile, PC or Mac.  
+
+This is an absolutely reliable program
 
 
 | https://eddiechu.github.io/passbox.html | |
