@@ -3,6 +3,7 @@
 You may consider using “Password Manager”.  Yet, there are pros and cons about this kind of software.  People may worry about if it is black box software and not sure if it is vulnerable, reliable or recoverable.
 
 https://www.google.com/search?q=password+manager+pros+and+cons
+
 https://en.wikipedia.org/wiki/Password_manager
 
 
