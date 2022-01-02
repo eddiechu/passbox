@@ -13,7 +13,6 @@ It is coded by HTML and Javascript.  It operates transparently without any trick
 
 You can download and open it on your mobile, PC or Mac.  
 
-This is an absolutely reliable program
 
 
 | https://eddiechu.github.io/passbox.html | |
