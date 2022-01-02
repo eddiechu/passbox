@@ -5,6 +5,7 @@
 ###### https://www.google.com/search?q=password+manager+pros+and+cons
 ###### https://en.wikipedia.org/wiki/Password_manager
 
+
 ###### Let’s back to the basic, here is a simple program providing you a quick, easy, and hassle-free way.  It is coded by HTML and Javascript, which operate transparently, not a black box, no trick.  You can download and open it on your mobile, PC or Mac too
 
 ###### This is an absolutely user friendly program with highly recommended.
