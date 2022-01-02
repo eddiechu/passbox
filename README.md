@@ -1,20 +1,18 @@
-# Compose your complex password
+#A good password habit is important, complex password per application and login is necessary.
 
-A good password is important:    
- - at least 12 characters
- - change the passwords in every 3 months.        
- - with a combination of upper and lowercase letters, numbers, punctuation, and special symbols 
- - do not use any predictable words particularly from the dictionaries 
- - do not resue passwords 
- - do not use personal information 
+You may consider “Password Manager”, but worry about it is black box software, don't know if they are vulnerable, reliable or recoverable
 
-You can use this simple program on your mobile with hassle-free.
+If you search in Google, there are many pros and cons about it.
 
-It is feasible, transparent, not a black box, no trick.
+LastPass, 1Password and other password managers can be hacked: What to do now
+https://www.tomsguide.com/news/password-manager-hacks
 
-And keep it just by taking a screen shoot and storing this screen capture on your mobile. Please, don't forget to have a backup copy too.
+Enterprise Password Manager Passwordstate Hacked, Exposing Users’ Passwords ...
+https://gizmodo.com/enterprise-password-manager-passwordstate-hacked-expos-1846756832
 
-This is an absolutely user friendly program with highly recommended. 
+Let’s back to the basic, here is a simple program providing you a quick, easy, and hassle-free way.  It is coded by HTML and Javascript, which operate transparently, not a black box, no trick.  You can download and open it on your mobile, PC or Mac too
+
+This is an absolutely user friendly program with highly recommended.
 
 
 | https://eddiechu.github.io/passbox.html | |
