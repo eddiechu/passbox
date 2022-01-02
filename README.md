@@ -1,8 +1,8 @@
 # A good password habit is important.
 
-You may consider “Password Manager”, but worry about it is black box software, don't know if they are vulnerable, reliable or recoverable
+###### You may consider “Password Manager”, but worry about it is a black box software, don't know if they are vulnerable, reliable or recoverable
 
-If you search in Google, there are many pros and cons about it.
+###### If you search in Google, there are many pros and cons about it.
 
 ###### Let’s back to the basic, here is a simple program providing you a quick, easy, and hassle-free way.  It is coded by HTML and Javascript, which operate transparently, not a black box, no trick.  You can download and open it on your mobile, PC or Mac too
 
