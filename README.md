@@ -26,4 +26,3 @@ complex password
 pronounceable password
 password manager
 secure password
-test
